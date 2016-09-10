@@ -1,0 +1,25 @@
+{
+  "name": "spellchecker",
+  "version": "1.0.0",
+  "description": "Uses a dictionary to create correction possibilities to recommend fixes in response to user input.",
+  "main": "prepopulate-method.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node prepopulate-method.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikaz1k/spellchecker-autocorrect.git"
+  },
+  "keywords": [
+    "spellchecker",
+    "node",
+    "javascript"
+  ],
+  "author": "Kaiser Dandangi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamikaz1k/spellchecker-autocorrect/issues"
+  },
+  "homepage": "https://github.com/kamikaz1k/spellchecker-autocorrect#readme"
+}
